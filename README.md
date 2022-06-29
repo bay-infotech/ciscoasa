@@ -90,3 +90,14 @@ In order to run the full suite of Acceptance tests, run `make testacc`.
 ```sh
 $ make testacc
 ```
+## BayInfotech Repositories
+
+Please visit our repositories for more detail and other projects in automation and programability:
+
+[https://github.com/bay-infotech](https://github.com/bay-infotech)
+
+
+## BayInfotech website
+We are working hard to bring more automation and programmability into community. Please contact us for more detail projects and solutions
+
+[https://bay-infotech.com](https://bay-infotech.com)
